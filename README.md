@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Banseok212
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Biology(Phylogenetics, Microbiology), Bioinformatics
+- 👋 Hi, I’m Banseok LEE
+- 👀 I’m interested in Bioinformatics, Biology(Phylogenetics, Microbiology)
+
 
 
 
